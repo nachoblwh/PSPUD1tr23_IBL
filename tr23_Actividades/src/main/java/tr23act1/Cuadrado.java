@@ -87,8 +87,7 @@ public class Cuadrado {
 	
 	public static int NumeroCuadrado(int numero)
 	{
-		numero= numero * numero;
-		return numero;
+		return numero*numero;
 	}
 
 }
